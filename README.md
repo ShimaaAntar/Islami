@@ -18,7 +18,8 @@ By dividing the UI into separate sections, fragments add modularity and reusabil
 
 The Fragment API provides two methods for visually connecting fragments during navigation by using motion effects and transformations.
 
-![Uploading enter-exit-animation.gif…]()
+![enter-exit-animation](https://user-images.githubusercontent.com/121448708/211882893-e431a48d-618b-4a0f-8264-bb26b80ceff2.gif)
+
 
 
 ## BottomNavigationView
