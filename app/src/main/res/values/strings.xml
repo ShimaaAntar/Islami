@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Islami</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="tasbih_list">
+
+        <item>لا حول ولا قوه الا بالله</item>
+        <item>لا اله الا الله</item>
+        <item>سبحان الله</item>
+        <item >الحمدلله</item>
+        <item>الله اكبر</item>
+
+    </string-array>
+
+        
+</resources>
