@@ -18,5 +18,10 @@
         android:icon="@drawable/ic_tasbeh"
         android:title="Tasbeh"
          />
+    <item
+        android:id="@+id/navigation_radio"
+        android:icon="@drawable/ic_radio"
+        android:title="radio"
+        />
 
 </menu>
