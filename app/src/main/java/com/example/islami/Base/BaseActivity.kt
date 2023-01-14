@@ -1,4 +1,4 @@
-package com.example.islami.adapter
+package com.example.islami.Base
 
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity

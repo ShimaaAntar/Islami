@@ -2,11 +2,12 @@ package com.example.islami.ui.activity
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.example.islami.adapter.BaseActivity
+import com.example.islami.Base.BaseActivity
 import com.example.islami.R
 import com.example.islami.databinding.ActivityHomeBinding
 import com.example.islami.ui.fragment.HadethFragment
 import com.example.islami.ui.fragment.QuranFragment
+import com.example.islami.ui.fragment.RadioFragment
 import com.example.islami.ui.fragment.TasbehFragment
 
 class HomeActivity : BaseActivity() {
@@ -22,6 +23,8 @@ class HomeActivity : BaseActivity() {
                 pushFragment(HadethFragment())
             } else if (item.itemId == com.example.islami.R.id.navigation_tasbeh) {
                 pushFragment(TasbehFragment())
+            }else if (item.itemId == com.example.islami.R.id.navigation_radio) {
+                pushFragment(RadioFragment())
             }
             true
         }
